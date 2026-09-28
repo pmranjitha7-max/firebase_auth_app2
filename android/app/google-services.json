@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "674198421119",
+    "project_id": "flutter-app-4ca2a",
+    "storage_bucket": "flutter-app-4ca2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674198421119:android:7f27862ba255ee2072894a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674198421119-5q90kmdods66iqsao7jpq784n92jqf9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_auth_app2",
+            "certificate_hash": "08334ef8e323faedb5ad7831524a8046a6f89396"
+          }
+        },
+        {
+          "client_id": "674198421119-v1tl1bbs3bmniah1a0ejeo1opbpoqro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUsicD7lRumP6VVtitXNgu5ooYsEOXTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674198421119-v1tl1bbs3bmniah1a0ejeo1opbpoqro3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674198421119:android:1671186e4a7da71472894a",
+        "android_client_info": {
+          "package_name": "com.ranjitha.cervicalcancerxai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674198421119-v1tl1bbs3bmniah1a0ejeo1opbpoqro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUsicD7lRumP6VVtitXNgu5ooYsEOXTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674198421119-v1tl1bbs3bmniah1a0ejeo1opbpoqro3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
